@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="latn">
+    <head>
+        <meta charset="utf-8">
+        <title>Lorem Ipsum</title>
+    </head>
+
+    <body>
+        <h1>Lorem ipsum dolor</h1>
+<!-- em pone el texto en italica pero le da emphasis , si el usuario utiliza algún screen reader. Strong, pone el texto en negrita (bold) pero le da más importancia. <b> y <i> son solamente estéticos. -->
+        <h2><em> incididunt ut labore et dolore magna aliqua.</em></h2>
+
+        <h3>Lorem ipsum</h3>
+        <h5><em>dolore magna aliqua</em></h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+        <p>Tristique magna sit amet purus gravida quis blandit turpis. Eget velit aliquet sagittis id consectetur purus ut. Purus sit amet luctus venenatis lectus. Erat imperdiet sed euismod nisi porta.</p>
+
+        <p>Id cursus metus aliquam eleifend mi in nulla posuere. Pellentesque id nibh tortor id. Blandit massa enim nec dui nunc mattis enim ut tellus. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Elementum eu facilisis sed odio morbi quis.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis purus sit amet volutpat consequat mauris nunc congue. In ante metus dictum at.</p>
+        
+        <p>In nisl nisi scelerisque eu ultrices vitae auctor. Suspendisse faucibus interdum posuere lorem ipsum. Ante metus dictum at tempor commodo ullamcorper. <em>Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras.</em> <strong>Neque ornare</strong> aenean euismod elementum nisi quis. Arcu ac tortor dignissim convallis aenean et.</p> 
+
+        <h3>dolor sit amet</h3>
+        <h5><em>labore et dolore</em></h5>
+
+        <p>Dolor sit amet consectetur adipiscing.</p>
+
+        <p>Vitae tempus quam pellentesque nec nam aliquam sem. Id aliquet risus feugiat in ante metus dictum at. Est ultricies integer quis auctor elit sed vulputate mi sit. Egestas tellus rutrum tellus pellentesque.</p>    
+
+        <p>Mus mauris vitae ultricies leo integer malesuada nunc. Cras pulvinar mattis nunc sed. Senectus et netus et malesuada fames ac turpis egestas integer. Neque sodales ut etiam sit amet nisl purus in mollis. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Aliquet sagittis id consectetur purus ut faucibus.</p>  
+
+        <p>Fermentum dui faucibus in ornare quam viverra. Ante in nibh mauris cursus mattis molestie a iaculis.</p>
+    </body>
+    <footer>
+
+    </footer>
+
+
+</html>
+
